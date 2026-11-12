@@ -1,1 +1,1 @@
-{"name":"分期繳款與週期性稅務管理","short_name":"繳款管理","lang":"zh-TW","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f9f6fc","theme_color":"#a58abf","icons":[{"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{"name":"分期繳款與週期性稅務管理","short_name":"繳款稅務","start_url":"./","display":"standalone","background_color":"#f8f6fb","theme_color":"#a58abf","icons":[{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
